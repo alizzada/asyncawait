@@ -1,0 +1,10 @@
+C:\Users\Ali.Alizada\source\repos\06.05.2020_async_await\06.05.2020_async_await\bin\Debug\06.05.2020_async_await.exe.config
+C:\Users\Ali.Alizada\source\repos\06.05.2020_async_await\06.05.2020_async_await\bin\Debug\06.05.2020_async_await.exe
+C:\Users\Ali.Alizada\source\repos\06.05.2020_async_await\06.05.2020_async_await\bin\Debug\06.05.2020_async_await.pdb
+C:\Users\Ali.Alizada\source\repos\06.05.2020_async_await\06.05.2020_async_await\obj\Debug\06.05.2020_async_await.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\06.05.2020_async_await\06.05.2020_async_await\obj\Debug\_06._05._2020_async_await.Form1.resources
+C:\Users\Ali.Alizada\source\repos\06.05.2020_async_await\06.05.2020_async_await\obj\Debug\_06._05._2020_async_await.Properties.Resources.resources
+C:\Users\Ali.Alizada\source\repos\06.05.2020_async_await\06.05.2020_async_await\obj\Debug\06.05.2020_async_await.csproj.GenerateResource.cache
+C:\Users\Ali.Alizada\source\repos\06.05.2020_async_await\06.05.2020_async_await\obj\Debug\06.05.2020_async_await.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\06.05.2020_async_await\06.05.2020_async_await\obj\Debug\06.05.2020_async_await.exe
+C:\Users\Ali.Alizada\source\repos\06.05.2020_async_await\06.05.2020_async_await\obj\Debug\06.05.2020_async_await.pdb
